@@ -48,3 +48,7 @@ enableEmoji = true
         name = "categories"
         weight = 100
 
+[deployment]
+  [[deployment.targets]]
+    name = 'production'
+    url = 'suikyoo.github.io/portfolio'

@@ -1,6 +1,5 @@
 +++
 date = '2026-05-24T07:48:01+08:00'
-draft = true
 title = 'Go Social'
 +++
 

@@ -1,6 +1,5 @@
 +++
 date = '2026-05-25T00:21:37+08:00'
-draft = true
 title = 'Legacy Games'
 +++
 

@@ -1,6 +1,5 @@
 +++
 date = '2026-05-25T07:07:11+08:00'
-draft = true
 title = 'Godot Games'
 +++
 

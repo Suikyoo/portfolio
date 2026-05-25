@@ -1,6 +1,5 @@
 +++
 date = '2026-05-25T00:09:28+08:00'
-draft = true
 title = 'Time Management App'
 +++
 

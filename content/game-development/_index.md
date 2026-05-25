@@ -1,6 +1,5 @@
 +++
 date = '2026-05-24T07:45:27+08:00'
-draft = true
 title = 'Game Development'
 summary = 'Did game development using python pygame'
 +++

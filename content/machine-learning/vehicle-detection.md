@@ -1,6 +1,5 @@
 +++
 date = '2026-05-24T23:43:52+08:00'
-draft = true
 title = 'Vehicle Detection'
 +++
 

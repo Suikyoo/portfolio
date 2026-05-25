@@ -10,7 +10,7 @@ I've had many projects involving vehicle detection done mostly for a single comm
 
 I barely know anything about machine learning at this point. 
 
-If I remember correctly, I've used Ultralytics' features such as detection in regions of interests. To accomplish this. This just uses the pretrained weights of YOLOv8n, and I've just filtered it to only detect vehicle-like classes.
+If I remember correctly, I've used Ultralytics' features such as detection in regions of interests. This just uses the pretrained weights of YOLOv8n, and I've filtered it to only detect vehicle-like classes.
 {{< video
     src="yolo-vehicle-detection.mp4"
     caption="prototype deployed on a **raspberry pi**, *(very lag)*"

@@ -14,5 +14,6 @@ I've only come across **Godot** one time as part of a game jam I had to do with 
     muted=true
 >}}
 
-I was in charge of programming the whole system with my classmates on level design. I had to learn Godot in under a week. This game was quite a *dizzy*. 
+>I was in charge of programming the whole system with my classmates on level design. I had to learn Godot in under a week. This game was quite a *dizzy*. 
 
+{{< github repo="Suikyoo/upcsg-game-jam-2026" showThumbnail=false >}}

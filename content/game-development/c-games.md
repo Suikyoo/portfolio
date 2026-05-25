@@ -6,7 +6,9 @@ title = 'C Games'
 Contrary to popular beliefs, I've had real good fun using C. It's nice to feel like a wizard applying data structure concepts.
 
 ## Dating Simulator
-Early on 1st or 2nd Year, we had to make a c program. And of course, what's a more appropriate group project than a **dating simulator**?. Anyways, I had my groupmates manually make all the dialogues as binary tree nodes while I just made the entire system for it. 
+Early on 1st or 2nd Year, we had to make a c program. And of course, what's a more appropriate group project than a **dating simulator**? 
+
+Anyways, I had my groupmates manually make all the dialogues as binary tree nodes while I just made the entire system for it. 
 
 {{< video
     src="dating-simulator.mp4"
@@ -15,7 +17,9 @@ Early on 1st or 2nd Year, we had to make a c program. And of course, what's a mo
     muted=true
 >}}
 
-This was really vile and primitive. I wasn't all too familiar with C so I guess I used Windows OS to develop this. I had to make a python script that converts my low-resolution drawings into character codes based on a brightness threshold
+> This was really vile and primitive. I wasn't all too familiar with C so I guess I used Windows OS to develop this. I had to make a python script that converts my low-resolution drawings into character codes based on a brightness threshold
+
+{{< github repo="Suikyoo/dating-simulator-game" showThumbnail=false >}}
 
 ## C-nake
 Compared to the previous one, C-nake is a more *sophisticated* game in a sense that it's more about data structures. This game is a combination of the ***classic snake game + trivia word search + battle royale***.  
@@ -31,3 +35,4 @@ the snake is basically a **linked list** that constantly eats at the next direct
 
 Except for the lazily coded figlet text interface, I'm really satisfied with how this program turned out. 
 
+{{< github repo="Suikyoo/c-nake" showThumbnail=false >}}

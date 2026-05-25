@@ -3,7 +3,7 @@ date = '2026-05-25T02:47:36+08:00'
 title = 'Networking and Concurrency'
 +++
 
-Imma be honest, this chapter is **dedicated solely to Go**. It is such a beautiful language with such a unique paradigm especially with goroutines which makes it so much easier to spawn threads in a program. 
+This chapter is **dedicated solely to Go**. It is such a beautiful language with such a unique paradigm especially with goroutines which makes it so much easier to spawn threads in a program. 
 
 
 ## Go Chat

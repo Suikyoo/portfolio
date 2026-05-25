@@ -17,9 +17,12 @@ I've always been an avid fan of developers way back, but learning how to touch t
 ## Deep
 {{< youtubeLite id="sDGngyMTY1E" label="sample game playthrough" >}}
 
+A game where you collect water for your trusty watergun to shoot stuff
+
 ## Remnant
 {{< youtubeLite id="AIxsHA7QlPI" label="sample game playthrough" >}}
 
+The very first game that I made through a game jam. A firefighter-like game.
 
 For the full *catalogue* of games, 
 {{< button href="https://suikyoo.itch.io" target="_self" >}}
